@@ -1,4 +1,4 @@
-# 練習專案三:資料科學家的工具箱
+# 專案三:資料科學家的工具箱
 
 ## 簡介
 這個專案「資料科學家的工具箱」透過 2020、2021 與 2022 年 [kaggle.com](https://www.kaggle.com/)所
@@ -53,5 +53,6 @@ Visualizations: Matplotlib, Seaborn, Plotly, ...etc.
 ![](data_science_job_visualizations.png)
 
 Machine Learning Algorithm: Linear/Logistic regression, Decision Tree/Random Forest, Deep Learning, XGBoost, ...etc.
+
 
 ![](data_science_job_machine_learnings.png)
